@@ -19,7 +19,9 @@
     & .shop__6db1d,
     & .innerContainer_e1147e,
     & .container_d08938,
-    & .container__955a3 {
+    & .container__955a3,
+    & .container__01ae2,
+    & .container__89463 {
         @apply cyan:!m-0 cyan:!rounded-none cyan:!shadow-glass
     }
     & .sidebar_c48ade {

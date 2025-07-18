@@ -98,8 +98,17 @@
 .shop__6db1d,
 .innerContainer_e1147e,
 .container_d08938,
-.container__955a3 {
+.container__955a3,
+.container__01ae2,
+.container__89463 {
   @apply cyan:!border-none cyan:!mr-2 cyan:!mb-2 cyan:!bgp-first-layer cyan:!rounded-interface cyan:!use-blur cyan:!shadow-cyan
+}
+
+.resizeHandle__01ae2 {
+  background-color: transparent;
+}
+.resizeHandle__01ae2:hover {
+  background-color: var(--background-mod-strong);
 }
 
 .container_d08938,
@@ -569,6 +578,7 @@
 .rightTrayIcon_cb9592,
 .leftTrayIcon_cb9592,
 .actionBarButton__18c2e {
+  justify-content: center;
   @apply cyan:m-0 cyan:h-11 cyan:w-11 cyan:rounded-medium cyan:!invis-btn
 }
 

@@ -50,6 +50,10 @@
 .authBox__921c5,
 .popoutContentWrapper_af3b89,
 .interactionsContainer_af3b89,
-.content_a8c622 {
+.content_a8c622,
+.pageBody__41ed7,
+.container__0b563,
+.contentContainer__89463,
+.sidebarContainer__89463 {
   @apply cyan:!no-bg
 }

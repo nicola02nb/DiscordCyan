@@ -1,4 +1,4 @@
-.mainCard_f369db {
+.mainCard_f369db, .prompt__5d7c9, .channelRow_e4503a, .container__98cbd, .mainTableContainer__09a38, .container__34c2c   {
     @apply cyan:!btn cyan:!rounded-large cyan:!border-subtle cyan:hover:shadow-cyan
 }
 
@@ -44,4 +44,35 @@
 
 .reaction_f8896c.reactionMe_f8896c {
     @apply cyan:!border-accent-500 cyan:!bg-accent-230/24
+}
+
+.channelChatWrapper_cb9592{
+    background: none !important;
+}
+.chat_f75fb0 .container__01ae2 {
+    margin: 5px 5px 5px 0 !important;
+}
+.chatTarget__01ae2.container__01ae2.floating__01ae2,
+.chatTarget__01ae2.container__01ae2.notFloating__01ae2 {
+    background: none !important;
+}
+
+.mainCard_f369db, .prompt__5d7c9, .container__34c2c {
+    border-radius: var(--cyan-radius-large) !important;
+}
+.container__34c2c {
+    margin: 0 10px;
+}
+.divider_ee23ac {
+    background-color: transparent;
+}
+.button__71c22, .otherRoles__71c22 {
+    background-color: var(--cyan-color-second-layer-thin) !important;
+}
+.iconWrapper__7e6bb {
+    background-color: var(--cyan-color-second-layer-thin);
+}
+.boostProgressBackground__98cbd {
+    background-color: var(--cyan-color-second-layer-thin);
+    border-color: var(--cyan-color-second-layer-thin);
 }
