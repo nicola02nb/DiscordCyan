@@ -57,3 +57,12 @@
 .upsellContainer__0b69f {
     position: sticky;
 }
+
+.guildContainer__5dba5 {
+    @apply cyan:border cyan:border-transparent cyan:hover:border-faint cyan:use-transition cyan:rounded-medium cyan:bg-second-layer-thin-hover
+}
+
+.themes__6fdb8,
+.floatingControls__6fdb8 {
+    @apply cyan:border cyan:border-transparent cyan:hover:border-faint cyan:use-transition cyan:rounded-medium cyan:bg-first-layer;
+}
