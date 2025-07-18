@@ -6372,6 +6372,9 @@
     background-color: var(--cyan-color-second-layer-thin-active);
   }
 }
+.pulseGradient__11664 {
+  display: none;
+}
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;

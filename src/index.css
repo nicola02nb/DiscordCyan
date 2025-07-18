@@ -850,3 +850,7 @@
 .bannerVisible_f37cb1 .header_f37cb1 {
   @apply cyan:invis-btn
 }
+
+.pulseGradient__11664 {
+  display: none;
+}
