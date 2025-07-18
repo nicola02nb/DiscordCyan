@@ -53,3 +53,7 @@
 .credentialItem__6c75d {
     @apply cyan:border cyan:border-transparent cyan:hover:border-faint cyan:use-transition cyan:rounded-medium cyan:hover:bg-second-layer-thin-hover
 }
+
+.upsellContainer__0b69f {
+    position: sticky;
+}

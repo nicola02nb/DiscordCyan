@@ -1,4 +1,5 @@
-.authedAppV2__50a54 {
+.authedAppV2__50a54, .groupContainer__9d98d,
+.flexCenter_abf706.notDetected_cc46f0.activeGame_cc46f0 {
     @apply cyan:raised-interface-large cyan:rounded-large cyan:shadow-glass;
     & .headerV2__50a54 {
         @apply cyan:bg-second-layer-thin cyan:m-1 cyan:rounded-medium cyan:shadow-glass;
@@ -6,4 +7,8 @@
             @apply cyan:btn cyan:rounded-medium cyan:use-transition
         }
     }
+}
+
+.collapseable__217b7.collapseable__9d98d{
+    background: none !important;
 }
