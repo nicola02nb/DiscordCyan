@@ -855,6 +855,7 @@
   display: none;
 }
 
+.container__4e30a,
 .container__50387 {
   @apply cyan:rounded-large cyan:!bgp-first-layer cyan:!use-blur cyan:!shadow-cyan cyan:!border cyan:border-faint
 }
