@@ -6429,6 +6429,37 @@
   box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow) !important;
   background: var(--cyan-color-first-layer) !important;
 }
+.browser_d98031.container_d9c882,
+.messagesPopoutWrap__45690,
+.popoutContainer__4ad69 {
+  --tw-translate-z: calc(var(--cyan-spacing) * 0) !important;
+  translate: var(--tw-translate-x) var(--tw-translate-y) var(--tw-translate-z) !important;
+  --tw-backdrop-blur: blur(var(--cyan-blur-normal)) !important;
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,) !important;
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,) !important;
+  border-radius: var(--cyan-radius-large) !important;
+  border-style: var(--tw-border-style) !important;
+  border-width: 1px !important;
+  border-color: var(--cyan-color-faint);
+  --tw-shadow: var(--cyan-interface-shadow), inset 0 1px 0 var(--tw-shadow-color, var(--cyan--color-faint)) !important;
+  box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow) !important;
+  background: var(--cyan-color-first-layer) !important;
+}
+.header_d9c882,
+.header__45690 {
+  margin: calc(var(--cyan-spacing) * 2);
+  border-radius: var(--cyan-radius-large);
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+  border-color: var(--cyan-color-faint);
+  padding-right: calc(var(--cyan-spacing) * 1) !important;
+  --tw-shadow: inset 0 1px 0 var(--tw-shadow-color, var(--cyan--color-faint)) !important;
+  box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow) !important;
+  background: var(--cyan-color-second-layer-thin) !important;
+}
+.upsellContainer__4a7f0 {
+  background-color: var(--cyan-color-second-layer-thin-active);
+}
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;

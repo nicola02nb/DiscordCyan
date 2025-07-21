@@ -858,3 +858,18 @@
 .container__50387 {
   @apply cyan:rounded-large cyan:!bgp-first-layer cyan:!use-blur cyan:!shadow-cyan cyan:!border cyan:border-faint
 }
+
+.browser_d98031.container_d9c882,
+.messagesPopoutWrap__45690,
+.popoutContainer__4ad69 {
+  @apply cyan:!rounded-large cyan:!bgp-first-layer cyan:!use-blur cyan:!shadow-cyan cyan:!border cyan:border-faint
+}
+
+.header_d9c882,
+.header__45690 {
+  @apply cyan:!bgp-second-layer-thin cyan:m-2 cyan:rounded-large cyan:border cyan:border-faint cyan:!pr-1 cyan:!shadow-glass
+}
+
+.upsellContainer__4a7f0 {
+  @apply cyan:bg-second-layer-thin-active
+}
