@@ -3722,7 +3722,7 @@
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   background-color: var(--cyan-color-first-layer);
 }
-.container__0be77 {
+.container__0be77, .container_f69538 {
   border-radius: var(--cyan-radius-large) !important;
   border-style: var(--tw-border-style) !important;
   border-width: 1px !important;
@@ -6458,6 +6458,8 @@
   box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow) !important;
   background: var(--cyan-color-second-layer-thin) !important;
 }
+.container__6764b,
+.messageGroupWrapper__45690,
 .upsellContainer__4a7f0 {
   background-color: var(--cyan-color-second-layer-thin-active);
 }

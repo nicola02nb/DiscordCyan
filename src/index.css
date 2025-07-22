@@ -871,6 +871,8 @@
   @apply cyan:!bgp-second-layer-thin cyan:m-2 cyan:rounded-large cyan:border cyan:border-faint cyan:!pr-1 cyan:!shadow-glass
 }
 
+.container__6764b,
+.messageGroupWrapper__45690,
 .upsellContainer__4a7f0 {
   @apply cyan:bg-second-layer-thin-active
 }
