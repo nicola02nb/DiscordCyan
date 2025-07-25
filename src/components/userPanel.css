@@ -9,10 +9,8 @@
   .outer_c0bea0.custom-user-profile-theme .inner_c0bea0:before {
     content: "";
     position: absolute;
-    top: 0;
-    left: 0.25rem;
     width: calc(100% - .5rem);
-    height: calc(100% - 56px - .25rem);
+    height: calc(100% - 8px);
     background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-secondary-color));
     @apply cyan:rounded-large
   }
