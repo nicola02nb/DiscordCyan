@@ -1,0 +1,7 @@
+.moonbase-extension-card-header {
+    @apply cyan:m-1 cyan:rounded-medium cyan:raised-interface
+}
+
+.moonbase-extension-card {
+    @apply cyan:rounded-large cyan:raised-interface-large
+}

@@ -6,6 +6,10 @@
     @apply cyan:!rounded-large cyan:!raised-interface-large cyan:use-blur cyan:shadow-cyan cyan:!h-fit cyan:!min-h-[unset]
 }
 
+.noiseCancellationPopout_e131a9 {
+    @apply cyan:raised-interface-large cyan:rounded-large cyan:use-blur cyan:bg-first-layer cyan:shadow-cyan
+}
+
 .vc-notification {
     @apply cyan:p-3
 }

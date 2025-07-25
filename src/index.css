@@ -41,6 +41,7 @@
 @import "./components/settings/connections.css" prefix(cyan);
 @import "./components/vencord/settings.css" prefix(cyan);
 @import "./components/vencord/addon.css" prefix(cyan);
+@import "./components/moonlight/moonbase.css" prefix(cyan);
 @import "./isMobile/index.css" prefix(cyan);
 @custom-variant dark (&:where(.theme-dark, .theme-dark *, .theme-dark .theme-light, .theme-dark .theme-light *));
 @custom-variant darker (&:where(.theme-darker, .theme-darker *));
@@ -80,6 +81,10 @@
 
 .panels_c48ade {
   @apply cyan:!rounded-large cyan:!border-none cyan:!use-blur cyan:!shadow-cyan cyan:!bgp-first-layer cyan:p-1 cyan:flex cyan:flex-col cyan:gap-1;
+}
+
+.panels_c48ade .lookFilled__201d5.colorBrand__201d5 {
+  @apply cyan:btn cyan:!rounded-small
 }
 
 .wrapper_e131a9:empty {
@@ -663,7 +668,15 @@
 }
 
 .navList__08434 .navButton__08434 {
-  @apply cyan:invis-btn cyan:h-8 cyan:ml-0
+  @apply cyan:invis-btn cyan:ml-0
+}
+
+.align-chat-input .button__24af7:hover {
+  @apply cyan:!no-bg cyan:!transition-none
+}
+
+.align-chat-input .emojiButton__74017 {
+  @apply cyan:h-11 cyan:w-11 cyan:invis-btn cyan:rounded-medium
 }
 
 .navList__08434 .navButtonActive__08434 {
