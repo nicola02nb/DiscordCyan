@@ -1349,7 +1349,6 @@
   }
 }
 .outer_c0bea0.custom-user-profile-theme .inner_c0bea0:before {
-  content: "";
   position: absolute;
   width: calc(100% - .5rem);
   height: calc(100% - 8px);
@@ -1479,7 +1478,8 @@
     padding-top: calc(var(--cyan-spacing) * 1) !important;
   }
 }
-.outer_c0bea0.custom-user-profile-theme .inner_c0bea0 .scrollerBase_d125d2, .customizationSection_ace4f5 .outer_c0bea0.custom-user-profile-theme .body__5be3e {
+.container__37bfc, .customizationSection_ace4f5 .outer_c0bea0.custom-user-profile-theme .body__5be3e {
+  border-radius: var(--cyan-radius-large) !important;
   position: relative;
   --profile-gradient-start: color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-primary-color));
   --profile-gradient-end: color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-secondary-color));
