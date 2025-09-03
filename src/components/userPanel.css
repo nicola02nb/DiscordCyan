@@ -72,6 +72,7 @@
     @apply cyan:transition cyan:duration-200 cyan:hover:!bg-second-layer-thin-hover cyan:active:!bg-second-layer-thin-active
   }
   
+  .shopScroll__08415.scrollerBase_d125d2,
   .inner_c0bea0 .scrollerBase_d125d2,
   .customizationSection_ace4f5 .outer_c0bea0 .body__5be3e {
     @apply cyan:m-1 cyan:mt-0 cyan:rounded-large cyan:border cyan:border-faint cyan:!bg-second-layer-thin cyan:shadow-glass
